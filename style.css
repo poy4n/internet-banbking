@@ -1,0 +1,101 @@
+body>div {
+    display: flex;
+}
+
+h1 .balance1 {
+    text-align: center;
+    color: grey;
+}
+
+.input1 {
+    text-align: center;
+}
+
+body {
+    background-color: lightgrey;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-family: monospace;
+    text-align: center;
+}
+
+.money-back1 {
+    background-color: lightgoldenrodyellow;
+    padding: 30px;
+    border: 5px solid black
+}
+
+.deposit-btn1 {
+    color: green;
+}
+
+.withdraw-btn1 {
+    color: red;
+}
+
+.dollar1  {
+    display: flex;
+    justify-content: center;
+}
+
+.deposit1 {
+    display: grid;
+}
+
+.alert1 {
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 20px;
+}
+
+/* ========== */
+
+h1 .balance2 {
+    text-align: center;
+    color: grey;
+}
+
+.input2 {
+    text-align: center;
+}
+
+.money-back2 {
+    background-color: lightgreen;
+    padding: 30px;
+    border: 5px solid black
+}
+
+.deposit-btn2 {
+    color: green;
+}
+
+.withdraw-btn2 {
+    color: red;
+}
+
+.dollar2 {
+    display: flex;
+    justify-content: center;
+}
+
+.deposit2 {
+    display: grid;
+}
+
+.alert2 {
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+}
+
+
